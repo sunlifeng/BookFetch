@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # http代理服务器
 # 1.ip限制,mac限制
